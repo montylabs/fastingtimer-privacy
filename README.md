@@ -1,2 +1,2 @@
 # fastingtimer-privacy
-rep for privacy policy for SIFT
+rep for privacy policy for Simple IF timer app
